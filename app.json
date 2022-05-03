@@ -4,7 +4,7 @@
   "keywords": [ "URL UPLOADER"],
   "success_url": "https://t.me/TheCyberVidBot",
   "website": "https://github.com/thecyberweapon",
-  "repository": "https://github.com/thecyberweapon/UPLOADER-BOT",
+  "repository": "https://github.com/beastz007/link-to-file-bot",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
